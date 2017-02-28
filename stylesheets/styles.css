@@ -23,6 +23,9 @@ h1, h2, h3 {
 h1 {
   font-size:47px;
 }
+h1 a {
+  color: #333;
+}
 
 h2 {
   color:#393939;
